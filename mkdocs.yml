@@ -1,0 +1,5 @@
+site_name: DevOps
+site_description: DevOps by VitalVas
+site_author: Vitaliy Vasilenko (VitalVas)
+
+docs_dir: 'docs'
