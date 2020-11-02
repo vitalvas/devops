@@ -11,9 +11,9 @@ opscode_erchef['strict_search_result_acls'] = true
 And `chef-server-ctl reconfigure`.
 
 
-### Usage
+## Usage
 
-#### Revoke global search for all nodes
+### Revoke global search for all nodes
 
 Revoke access for new nodes
 ```
